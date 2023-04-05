@@ -3,11 +3,8 @@
 <div align="center">
   <br/>
 
-<<<<<<< HEAD
-  <h3><b>Awesome Books: Books-collection</b></h3>
-=======
+
   <h3><b>Awesome Books ES6: Books-collection</b></h3>
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 </div>
 
@@ -37,15 +34,10 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-<<<<<<< HEAD
-# 📖 [Awesome Books: Books-collection] <a name="about-project"></a>
 
-This project is about testing accessiblity of portfolio website
-=======
 # 📖 [Awesome Books ES6: Books-collection] <a name="about-project"></a>
 
 This project is about a Book app created using ES6 modules
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -55,11 +47,8 @@ This Project was built with HTML and JavaScript
 
 ### Key Features <a name="key-features"></a>
 
-<<<<<<< HEAD
-The website was tested on the following accessibility requirements: Title, Image text alternatives, Text headings, Color contrast, Resize, Interaction, Moving content, Multimedia, The basic structure of the page
-=======
+
 The Awesome Books ES6 Adds, display and remove books from local storage.
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -67,11 +56,8 @@ The Awesome Books ES6 Adds, display and remove books from local storage.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<<<<<<< HEAD
-- [Live Demo Link](https://bellagirl-maker.github.io/Portfolio/)
-=======
+
 - [Live Demo Link]
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,11 +73,8 @@ Example commands:
 
 cd your-folder
 
-<<<<<<< HEAD
-git clone https://github.com/Bellagirl-maker/Awesome-books
-=======
+
 git clone https://github.com/Bellagirl-maker/Awesomebooks-es6
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,11 +94,8 @@ clone this project to your local environment and open in the browser
 
 ### Usage
 
-<<<<<<< HEAD
-Use this project in the browsers of mobile phones and desktops
-=======
+
 Use this project in web browsers.
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -139,13 +119,6 @@ You can deploy this project on GitHub Pages
 - Twitter: [@twitterhandle](https://twitter.com/isabella_otoo)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/isabella-otoo-935901146/)
 
-<<<<<<< HEAD
-👤 **Adams Bamfo**
-- GitHub: [Adams-Ghub](https://github.com/Adams-Ghub)
-- Twitter: [@bamfoaf](https://twitter.com/bamfoaf)
-- LinkedIn: [Adams Bamfo](https://www.linkedin.com/in/adams-bamfo-3aaa3011b/)
-=======
->>>>>>> f1444e83586d158d870b49e51c587acc209db373
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
